@@ -1,12 +1,12 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Helmet } from "react-helmet-async";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { 
-  Car, MapPin, Navigation, Clock, DollarSign, Star, 
-  Brain, Zap, Users, ChevronRight
+  Car, MapPin, Navigation, Clock, Star, 
+  Brain, Zap, ChevronRight
 } from "lucide-react";
 import { toast } from "@/hooks/use-toast";
 
