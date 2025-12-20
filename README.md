@@ -360,3 +360,12 @@ For support, email support@rideai.com or open an issue in the repository.
 
 </div>
 
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
