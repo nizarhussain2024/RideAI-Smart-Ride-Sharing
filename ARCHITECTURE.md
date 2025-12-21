@@ -295,3 +295,14 @@ RideAI is an AI-powered ride-sharing platform that leverages machine learning an
 - **Edge Computing**: ML inference at edge locations
 - **Blockchain**: Decentralized driver payments (optional)
 
+
+## AI Components
+
+### NLP Processing
+- Text tokenization and normalization
+- Similarity calculation algorithms
+- Context-aware processing
+
+*Updated: 2025-12-20*
+
+*Updated: 2025-12-21 - Daily maintenance and documentation refresh*
